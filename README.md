@@ -139,6 +139,31 @@ Añade también una captura de pantalla si tienes una disponible.
 
 ---
 
+
+---
+
+## 🐍 My Contribution Journey | Mi actividad
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nuasai04/nuasai04/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nuasai04/nuasai04/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/nuasai04/nuasai04/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
+---
+
 <div align="center">
 
 ### ✨ Thanks for visiting my profile! | ¡Gracias por visitar mi perfil!
