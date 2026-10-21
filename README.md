@@ -69,7 +69,6 @@ I enjoy building applications, developing APIs, and working on both backend and 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Databases
@@ -146,6 +145,6 @@ Añade también una captura de pantalla si tienes una disponible.
 
 **Always learning. Always building. Always improving.**
 
-<sub>Designed with 💜 by Nuhaila · 2026</sub>
+<sub>Designed by Nuhaila · 2026</sub>
 
 </div>
