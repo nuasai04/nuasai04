@@ -127,11 +127,13 @@ Añade también una captura de pantalla si tienes una disponible.
 
 ## 🌱 Currently Growing | Aprendiendo cada día
 
+🇬🇧
 - 💻 Improving my full stack development skills.
 - 🧠 Strengthening my knowledge of software design and clean code.
 - 🔌 Building and improving REST APIs.
 - 🚀 Exploring new tools, frameworks, and development practices.
 
+🇪🇸
 - 💻 Mejorando mis habilidades de desarrollo full stack.
 - 🧠 Reforzando mis conocimientos de diseño de software y código limpio.
 - 🔌 Creando y mejorando APIs REST.
